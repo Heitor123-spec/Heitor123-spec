@@ -19,5 +19,7 @@
 <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img align="center" alt="Flutter" src="https://camo.githubusercontent.com/7efe4924f4194c7bd18b8fed492e0dfb4172d317f23904aec55c396e4de04f2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465">
 
-</div>
+</div><br/>
+
+Apaixonado por tecnológias.
 
